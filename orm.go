@@ -42,4 +42,3 @@ func Init(dsn string) (err error) {
 	}
 	return nil
 }
-
